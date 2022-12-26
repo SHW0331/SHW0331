@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Android, Kotlin
+- 💬 Ask me about Android (https://shw0331.notion.site/Android-Roadmap-Kotlin-b3ba0314400048c0b34d99f455a8ff87)
+- 💬 Ask me about Algorithm (https://shw0331.notion.site/Algorithm-24a296d8815a49189834551087ee28a4)
